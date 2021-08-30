@@ -251,3 +251,9 @@ xpack.security.encryptionKey: "something_at_least_32_characters"
 
 ## 五、完成图展示
 周一到公司截图
+### es
+![](https://gitee.com/sjtu-lhq/blogImage/raw/master/%20images/20210830095200.png)
+### kibana
+![](https://gitee.com/sjtu-lhq/blogImage/raw/master/%20images/20210830103016.png)
+### cerebro
+![](https://gitee.com/sjtu-lhq/blogImage/raw/master/%20images/20210830100556.png)
